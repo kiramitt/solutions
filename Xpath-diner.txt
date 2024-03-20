@@ -1,4 +1,4 @@
-<!--https://topswagcode.com/xpath/-->
+/*https://topswagcode.com/xpath/*/
 1. //plate
 2. //bento
 3. //plate/apple
